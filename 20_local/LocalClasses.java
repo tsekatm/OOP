@@ -1,3 +1,4 @@
+package OOP.local;
 
 
 public class LocalClasses {

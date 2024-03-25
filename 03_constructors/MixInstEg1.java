@@ -1,3 +1,4 @@
+package OOP.constructors;
 public class MixInstEg1{
     int myVar = 4;
     static int myVar2 = 2;

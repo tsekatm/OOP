@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-public class AgeGetter3{
+public class AgeGetter2{
 	public int getAge(){
 		Scanner sc = new Scanner();
-		age = sc.nextInt();
+		int age = sc.nextInt();
 		return age;
 
 	}

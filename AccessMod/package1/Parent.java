@@ -2,7 +2,7 @@ package OOP.AccessMod.package1;
 
 public class Parent {
 
-    public static void family(){
+    protected static void family(){
         System.out.println("I am a parent");
 
     }
@@ -11,6 +11,9 @@ public class Parent {
     }
     public static void myMethod2(){
 
+    }
+    public Parent(String name, int number) throws  NumberFormatException{
+        System.out.println("I'm a parent constructor");
     }
 
     
