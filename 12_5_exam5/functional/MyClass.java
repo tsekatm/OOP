@@ -9,11 +9,6 @@ public class MyClass{
             {
                 System.out.println("Overridden method of a Functional Interface");
             }
-            
-	        public void defInter()
-	        {
-    	        System.out.println("Default MyClass");
-            }
         };
 
         interface1.doSomething();

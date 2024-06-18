@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2265f936-70e2-4c50-8eb7-0a6d80b61523" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../12_1_exams1/C2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../12_1_exams1/C2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_1_exams1/Sub.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../12_1_exams1/Sub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_3_exam3/postmortem2/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../12_3_exam3/postmortem2/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_3_exam3/postmortem2/StaticVsInstance00.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../12_3_exam3/postmortem2/StaticVsInstance00.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_5_exam5/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../12_5_exam5/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_5_exam5/functional/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../12_5_exam5/functional/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_5_exam5/postmortem/AnonymousInterfaceMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../12_5_exam5/postmortem/AnonymousInterfaceMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_6_exam6/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../12_6_exam6/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_6_exam6/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../12_6_exam6/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_6_exam6/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../12_6_exam6/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_6_exam6/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../12_6_exam6/ClassA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_6_exam6/aws/dist/_awscrt.abi3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_6_exam6/aws/dist/awscli/botocore/data/ec2/2016-11-15/service-2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_6_exam6/aws/dist/awscli/data/ac.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_6_exam6/aws/dist/cryptography/hazmat/bindings/_openssl.abi3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_6_exam6/aws/dist/lib-dynload/_hashlib.cpython-311-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_6_exam6/aws/dist/lib-dynload/_ssl.cpython-311-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_6_exam6/awscliv2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../27_packages/AmazonClassMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../27_packages/PublicAccessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../27_packages/com/amazon/sales/AmazonClassMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../27_packages/com/amazon/sales/AmazonClassMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../27_packages/com/amazon/sales/AmazonClassMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../27_packages/com/amazon/sales/AmazonClassMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../27_packages/com/facebook/subscriptions/FacebookClassMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../27_packages/com/facebook/subscriptions/FacebookClassMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../27_packages/com/facebook/subscriptions/FacebookClassMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../27_packages/com/facebook/subscriptions/FacebookClassMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../27_packages/com/google/gemini/GoogleGeminiClassMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../27_packages/com/google/gemini/GoogleGeminiClassMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../27_packages/com/google/gemini/GoogleGeminiClassMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../27_packages/com/google/gemini/GoogleGeminiClassMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../27_packages/com/linkedin/subscriptions/LinkedinClassMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../27_packages/com/linkedin/subscriptions/LinkedinClassMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../27_packages/com/linkedin/subscriptions/LinkedinClassMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../27_packages/com/linkedin/subscriptions/LinkedinClassMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../27_packages/za/co/mypuppies/sales/MyPuppiesClassMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../27_packages/za/co/mypuppies/sales/MyPuppiesClassMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../27_packages/za/co/mypuppies/sales/MyPuppiesClassMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../27_packages/za/co/mypuppies/sales/MyPuppiesClassMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../27_packages/za/commons/CharAt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../27_packages/za/commons/CommonsPrint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../27_packages/za/commons/CommonsPrint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../27_packages/za/commons/PackTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../anonymous/Anonymous01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../anonymous/Anonymous01Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../anonymous/SuperX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../anonymous/SuperXMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../anonymous/tmp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../constructors/MixInstEg1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../constructors/MixInstEg1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../constructors/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../constructors/MyInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../constructors/tmp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../encapsulation/CustomerDatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../encapsulation/tmp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../enums/Day.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../enums/EnumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../enums/EnumTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../enums/Month.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../enums/Reference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../enums/tmp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gc/GarbageCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gc/GarbageMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gc/tmp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../isa_vs_hasa/ClassC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../isa_vs_hasa/ClassD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../isa_vs_hasa/InstanceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../isa_vs_hasa/Mary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../isa_vs_hasa/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../isa_vs_hasa/Tom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../isa_vs_hasa/tmp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../local/Local1Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../local/LocalClasses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../local/tmp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../packages/PublicAccessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../packages/co/za/AccessMe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../packages/com/facebook/FacebookClassMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../packages/tmp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../packages/za/AccessMe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../packages/za/access/ExtenderAccessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../packages/za/access/FacebookClassMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../packages/za/access/SamePackageAccessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../packages/za/commons/CharAt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../packages/za/commons/CommonsPrint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../packages/za/commons/CommonsPrint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../packages/za/commons/PackTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../polymophism/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../polymophism/EnglishBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../polymophism/Morph1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../polymophism/MorphMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../polymophism/tmp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../whatis/ClassA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../whatis/ClassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../whatis/ClassB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../whatis/Name.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../whatis/Name.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../whatis/Surname.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../whatis/Surname.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../whatis/tmp.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2g0jkt7FeAhRaByasSpJxEFsPHF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/tebogotseka/Documents/java_lessons/JavaCode/src/java_lessons/OOP/17_2_access_exam_1/postmortem_acessmodifiers1_exam8"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2265f936-70e2-4c50-8eb7-0a6d80b61523" name="Changes" comment="" />
+      <created>1714841536408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714841536408</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,4 +1,4 @@
 
-public class C2 extends B {
+public class C2 extends I2 {
     
 }

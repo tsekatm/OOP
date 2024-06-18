@@ -10,5 +10,6 @@
     public static void main(String[] args) {
         Base b = new Sub();
         b.methodA();
+        // b.methodB();//Base class does not have methodB
     }
 }

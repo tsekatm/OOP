@@ -18,7 +18,8 @@ package postmortem;
 
  public class AnonymousInterfaceMain{
 	public static void main(String[] args) {
-		AnonymousInterface anonymousInterface = new AnonymousInterface(){
+		AnonymousInterface anonymousInterface = new AnonymousInterface()
+		{
 			
 			public int add(int a, int b){
 				a = a;
