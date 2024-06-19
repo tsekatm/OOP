@@ -5,6 +5,5 @@ public class Javalang03{
 
 		Integer c = a + b;
 
-		System.out.println(a);
 	}
 }
