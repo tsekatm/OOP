@@ -11,10 +11,10 @@ public class NavigableListTest{
 		Long previousItem = set.lower(lastItem);
 		System.out.println("previous item: " + previousItem);
 
-		// Long firstItem = set.first();
-		// System.out.println("first item: " + firstItem);
+		Long firstItem = set.first();
+		System.out.println("first item: " + firstItem);
 
-		// Long nextItem = set.higher(firstItem);
-		// System.out.println("next item: " + nextItem);
+		Long nextItem = set.higher(firstItem);
+		System.out.println("next item: " + nextItem);
 	}
 }

@@ -7,9 +7,6 @@ public class IteratorTest{
 		while(iterator.hasNext()){
 			String city = iterator.next();
 			System.out.print(city + " ");
-		}
-        
+		} 
 	}
-	
-
 }
